@@ -1,7 +1,7 @@
 # Coinbase Intelligence
 
 ### AI-Powered Financial Intelligence & Onchain Agent Economy
-
+ 
 Coinbase Intelligence is a multi-agent AI platform that connects Coinbase financial data, quantitative research, portfolio risk analysis, and Base blockchain infrastructure. It uses specialized AI agents to analyze information, verify findings, and coordinate secure, auditable workflows.
 
 ## Core Capabilities
