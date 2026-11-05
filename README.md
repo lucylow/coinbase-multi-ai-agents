@@ -1,7 +1,5 @@
 # COINBASE INTELLIGENCE
 
-## Condensed Project Blueprint — 10-Page Edition
-
 Autonomous Multi-Agent Financial Intelligence & Onchain Agent Economy
 
 Coinbase Intelligence is a proposed multi-agent AI financial infrastructure platform combining Coinbase account connectivity, quantitative research, programmable wallets, Base smart contracts, decentralized agent identity, cryptographic research verification, and autonomous machine-to-machine payments.
