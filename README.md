@@ -1,4 +1,3 @@
-```markdown
 # COINBASE INTELLIGENCE
 ## Autonomous Multi-Agent Financial Intelligence & Onchain Agent Economy
 A Coinbase-native multi-agent AI platform combining financial intelligence, programmable wallets, Base smart contracts, decentralized agent identity, cryptographic research verification, and autonomous machine-to-machine commerce.
