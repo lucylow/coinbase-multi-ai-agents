@@ -9,15 +9,7 @@
   Connecting AI-powered financial intelligence with Coinbase infrastructure and the Base ecosystem.
 </p>
 
-<p align="center">
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-  ![Network](https://img.shields.io/badge/Blockchain-Base-0052FF)
-  ![AI](https://img.shields.io/badge/AI-Multi--Agent-purple)
-  ![Financial Data](https://img.shields.io/badge/Data-Coinbase-0052FF)
-  ![Payments](https://img.shields.io/badge/Payments-USDC-2775CA)
-  ![Architecture](https://img.shields.io/badge/Architecture-Modular-success)
-</p>
-
+![](https://github.com/lucylow/coinbase-multi-ai-agents/blob/main/Screenshot%20(1980).png?raw=true)
 ---
 
 ## Table of Contents
